@@ -24,7 +24,7 @@ import {
   PlusIcon,
   Squares2X2Icon,
 } from '@heroicons/react/20/solid';
-import { ITEMS_PER_PAGE, sortOptions } from '../constants';
+import { ITEMS_PER_PAGE, sortOptions } from '../../../app/constants';
 
 function classNames(...classes) {
   return classes.filter(Boolean).join(' ');

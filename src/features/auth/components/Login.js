@@ -15,7 +15,6 @@ export default function Login() {
     formState: { errors },
   } = useForm();
 
-  console.log(errors);
 
   return (
     <>
